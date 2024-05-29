@@ -50,7 +50,7 @@ worksheets.Sheet1.push({
     "New Column": "test"
 });
 
-// // Update the XLSX file
+// Update the XLSX file
 // XLSX.utils.sheet_add_json(workbook.Sheets["Sheet1"], worksheets.Sheet1)
 // XLSX.writeFile(workbook, "file-example.xlsx");
 
